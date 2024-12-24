@@ -1,8 +1,7 @@
 # GPT3 Website
 
 #### Live Project🎉
-- [**GitHub** - https://nkilm.github.io/openai-gpt3](https://nkilm.github.io/openai-gpt3/)
-- [**Vercel** - https://openai-gpt3.vercel.app](https://nkilm.github.io/openai-gpt3/)
+- [**Vercel** - https://openai-gpt3.vercel.app](https://ruchap24.github.io/openai-gpt3/)
 
 ## Usage
 
@@ -32,10 +31,3 @@ npm start
 - [x] Responsive Website using Reactjs
 - [x] Deploying React App(s) to GitHub/Vercel
 - [x] Containerizing NodeJS app using Docker
-
-
-## Figma Design - 
-[*Click me!!*](https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0%3A15)
-## Credits 
-
-YouTube - [Javascript Mastery](https://www.youtube.com/c/JavaScriptMastery) 
