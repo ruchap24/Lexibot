@@ -28,3 +28,5 @@ npm start
 - [x] Responsive Website using Reactjs
 - [x] Deploying React App(s) to GitHub/Vercel
 - [x] Containerizing NodeJS app using Docker
+
+## Made with ❤️ by **[RUCHA PATIL](https://github.com/ruchap24)**
